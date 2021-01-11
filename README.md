@@ -2,7 +2,9 @@
 
 <img width="611" alt="scoreclan-screenshot" src="https://user-images.githubusercontent.com/64153997/104187146-53141600-540f-11eb-9a67-82d322e06c56.png">
 
-To run the code found in this repository:
+To view the live app, please click on the URL in this repo's "About" section found on the top-right hand side of the page.
+
+Alternatively, to run the code found in this repository:
 
 Clone the repository:
 To clone this repo please follow the instructions found in the github.com link: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
