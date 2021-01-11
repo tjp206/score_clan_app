@@ -1,5 +1,28 @@
 # score_clan
 
+<img width="611" alt="scoreclan-screenshot" src="https://user-images.githubusercontent.com/64153997/104187146-53141600-540f-11eb-9a67-82d322e06c56.png">
+
+To run the code found in this repository:
+
+Clone the repository:
+To clone this repo please follow the instructions found in the github.com link: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+Download & install Express
+
+Within your terminal navigate to: ../score_clan_app
+Enter: npm install 
+Enter: npm run serve (this will run the Express Front End)
+
+Open a new browser window & navigate to URL:localhost:8080
+
+To navigate the app select a match-up from the dropdown menu.
+From the match-up page you can click on team names, competition information, league information, etc & will be directed to external pages with additional information about that subject.
+
+Technologies used:
+
+Visual Studio Code, Vue.js, Node.js, Google Chrome Browser, JavaScript, HTML5, CSS3
+
+
 ## Project setup
 ```
 npm install
