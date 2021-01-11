@@ -16,7 +16,7 @@ Enter: npm run serve (this will run the Express Front End)
 Open a new browser window & navigate to URL:localhost:8080
 
 To navigate the app select a match-up from the dropdown menu.
-From the match-up page you can click on team names, competition information, league information, etc & will be directed to external pages with additional information about that subject.
+From the match-up page you can click on team names, competition information and league information & will be directed to external pages with additional information about that subject. You can also follow the link to a livestream of the match(if a stream is available) & watch video highlights once a match has finished.
 
 Technologies used:
 
